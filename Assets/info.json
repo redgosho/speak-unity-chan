@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "key": "1",
+            "name": "Bob",
+            "sex": 1,
+            "isRegistered": true
+        },
+        {
+            "key": "2",
+            "name": "Steve",
+            "sex": 1,
+            "isRegistered": false
+        },
+        {
+            "key": "3",
+            "name": "Carol",
+            "sex": 2,
+            "isRegistered": false
+        }
+    ]
+}
